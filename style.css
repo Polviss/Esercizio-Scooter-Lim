@@ -1,0 +1,71 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    margin: auto;
+    width: 1200px;
+}
+
+.content{
+    margin-top: 30px;
+    background: rgba(0, 0, 0, 0.562);
+    border-radius: 2em;
+    border: 1px solid rgba(0, 0, 0, 0.561);
+    padding: 100px;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    color: rgb(2, 209, 2);
+}
+
+img{
+    width: 200px;
+}
+
+.menu{
+    background-color: greenyellow;
+    padding: 10px;
+    text-align: center;
+}
+
+span{
+    color: white;
+}
+
+.nome{
+    font-size: 30px;
+}
+
+.Prodotti{
+    margin: 5% 0;
+}
+
+.batteria1{
+    box-sizing: border-box;
+    height: 10px;
+    width: 300px;
+    padding: 10px;
+    background: sandybrown;
+    border-radius: 5px;
+}
+
+.batteria2{
+    box-sizing: border-box;
+    height: 10px;
+    width: 500px;
+    padding: 10px;
+    background: rgb(2, 209, 2);
+    border-radius: 5px;
+}
+
+.batteria3{
+    box-sizing: border-box;
+    height: 10px;
+    width: 100px;
+    padding: 10px;
+    background: red;
+    border-radius: 5px;
+}
